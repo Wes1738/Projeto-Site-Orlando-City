@@ -15,5 +15,5 @@ Projeto desenvolvido do zero no [Curso de HTML5, CSS3 e JavaScript](https://www.
 ### Produtos e Carrinho de Compras
 ![Gif4 - Produtos e Carrinho de Compras](https://github.com/Wes1738/Projeto-Site-Orlando-City/blob/master/Gifs/OrlandoCity-Cart-and-Products.gif)
 
-### Site Respomsivo
+### Site Responsivo
 ![Gif5 - Site Responsivo](https://github.com/Wes1738/Projeto-Site-Orlando-City/blob/master/Gifs/OrlandoCity%20-%20Responsivo.gif)
